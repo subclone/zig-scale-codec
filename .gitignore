@@ -1,0 +1,4 @@
+# zig gitignore
+
+zig-cache
+zig-out
