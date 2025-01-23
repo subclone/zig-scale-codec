@@ -2,7 +2,7 @@
 
 SCALE codec implementation in Zig.
 
-- [ ] primitive types
+- [x] primitive types
 - [ ] collections
 - [ ] enums
 - [ ] structs
